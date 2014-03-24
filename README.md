@@ -1,4 +1,4 @@
-New-Game
+Alveria
 ========
 
-This Is Our New Game (We Are Still Thinking Of A Name)
+This Is Our New Game
